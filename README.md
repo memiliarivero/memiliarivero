@@ -2,7 +2,7 @@
 
 <h1 align="center"> 🤩 hello, i'm María Emilia Rivero 🤩 </h1>
 <h1 align="center">🚀 Full Stack Developer 🚀</h1>
-<h3 Soy creativa, entusiasta, proactiva, me apasiona la tecnologia y trabajar en equipo. Siempre busco aprender y afrontar nuevos desafios.</h3>
+<h3 aling="justify" Soy creativa, entusiasta, proactiva, me apasiona la tecnologia y trabajar en equipo. Siempre busco aprender y afrontar nuevos desafios</h3>
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
 
 <details><summary>🛠 Mis Tech Skills:</summary>
